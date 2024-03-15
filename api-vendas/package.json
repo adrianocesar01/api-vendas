@@ -1,0 +1,26 @@
+{
+  "name": "api-vendas",
+  "version": "1.1.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Adriano C. S. Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "celebrate": "^15.0.0",
+    "express": "^4.17.1",
+    "joi-password": "^1.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.11",
+    "sqlite3": "^5.0.2",
+    "uuidv4": "^6.2.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+
+{ "email" : "adrianocesar01@gmail.com",  
+	    "senha" : "Js#Salva7gdr25"}
+      
+{"email" : "adriano.augusto@soupromove.com.br",  
+	    "senha" : "Js#Salva7gdr25" }
+
+"codigoCategoria"  : "765f3b21-afa8-4323-8937-43d8beff8bd2" , //limpeza
+"codigoFornecedor": "339ecf3f-65fb-48f7-afd2-dee5d7df81f7"  //omo
+"codigoCategoria" : "4821831c-78ff-4158-a5b8-e50d8e831a58" ,  // bebidas
+ "codigoFornecedor"  : "b1d78d77-0323-4a80-81b3-e08245345ced" // ambev
+
+{
+"nome": "Sabão em pó" , 
+"valor": 15,  
+"codigoCategoria"  : "765f3b21-afa8-4323-8937-43d8beff8bd2" , 
+"codigoFornecedor": "339ecf3f-65fb-48f7-afd2-dee5d7df81f7"
+}
+
+{ "nome" : "Brahma",  
+  "valor" : 3.50, 
+  "codigoCategoria" : "4821831c-78ff-4158-a5b8-e50d8e831a58" , 
+  "codigoFornecedor"  : "b1d78d77-0323-4a80-81b3-e08245345ced"
+}
